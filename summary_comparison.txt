@@ -68,8 +68,9 @@ Neural network is a group of neuron friends identifying lions and dogs.
 
 Best Method Analysis
 ===================
-After comparing all methods, TextRank provides the best summary for this article because:
-1. It maintains better sentence coherence and flow
-2. It captures the key concepts about neural networks while preserving context
-3. It produces more readable output compared to other methods
-4. It better preserves the explanatory nature of the original article
+After comparing all methods, Gensim provides the best summary for this article because:
+1. It preserves the narrative flow of the teaching explanation
+2. It maintains the complete conceptual thread from introduction to examples
+3. It captures both the technical content (neural network concepts) and the storytelling context (father-daughter interaction)
+4. It includes concrete examples (dog vs lion features) that help explain the concept
+5. It retains the accessible, conversational tone of the original article while keeping the key technical points
