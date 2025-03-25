@@ -1,0 +1,18 @@
+[project]
+name = "task4"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+    "gensim==3.6.0",
+    "ipykernel>=6.29.5",
+    "lxml-html-clean>=0.4.1",
+    "nltk>=3.9.1",
+    "numpy>=1.21.0",
+    "requests>=2.32.3",
+    "setuptools>=77.0.1",
+    "summa>=1.2.0",
+    "sumy>=0.11.0",
+]
